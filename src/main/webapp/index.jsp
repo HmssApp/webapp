@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome To</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is on Devops success</h1>
+      <h1 class="text-center">My job is on Devops success2</h1>
       <h2 class="text-center">My name is Eghosa Agunu,I am a DevOps Engineer</h2>
   </div>
 </body>
